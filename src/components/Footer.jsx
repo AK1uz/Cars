@@ -81,16 +81,7 @@ import React from 'react';
 
       </div>
 
-      {/* PASTDAGI PRIVACY / TERMS CHIZIG'I (Loyiha mukammal ko'rinishi uchun qo'shimcha) */}
-      <div className="max-w-7xl mx-auto border-t border-gray-100 mt-12 pt-8 flex flex-col-reverse md:flex-row items-center justify-between gap-4 text-sm font-semibold text-gray-900">
-        <div>
-          ©2026 MORENT. All rights reserved
-        </div>
-        <div className="flex items-center gap-8">
-          <a href="#privacy" className="hover:text-blue-600 transition-colors">Privacy Policy</a>
-          <a href="#terms" className="hover:text-blue-600 transition-colors">Terms & Condition</a>
-        </div>
-      </div>
+   
 
     </footer>
   );

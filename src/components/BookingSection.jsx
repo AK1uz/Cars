@@ -4,7 +4,7 @@ import { ChevronDown, ArrowUpDown } from 'lucide-react';
 function BookingSection() {
     return (
         /* Asosiy fon rasmdegidek och kulrang bo'ldi */
-        <div className="w-full bg-gray-50 px-6 py-8 flex flex-col lg:flex-row items-center justify-between gap-4 lg:gap-5 relative font-sans">
+        <div className="w-full  px-6 py-8 flex flex-col lg:flex-row items-center justify-between gap-4 lg:gap-5 relative font-sans">
 
             {/* 1. PICK - UP KARTASI (Oppoq rangda) */}
             <div className="w-full bg-white rounded-xl p-6 shadow-[0_10px_30px_rgba(0,0,0,0.03)] border border-gray-100/50 transition-all duration-300 group">
