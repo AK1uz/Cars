@@ -1,0 +1,17 @@
+{
+    "cars": [
+        {
+            "id": "koenigsegg_sport_001",
+            "ismi": "Koenigsegg",
+            "turi": "Sport",
+            "yoqilgi_hajmi_litr": 90,
+            "uzatmalar_qutisi": "Manual",
+            "sigimi_odam": 2,
+            "narxi_kunlik": 99,
+            "valyuta": "USD",
+            "ijara_birligi": "day",
+            "tavsifi": "компания-производитель автомобилей спортивного класса. Основана в 1994 году Кристианом фон Кёнигсеггом. Изначально располагалась в Улофстрёме, впоследствии перебазировалась в Маргрететорп, возле Энгельхольма.",
+            "img": "https://pngimg.com/uploads/koenigsegg/koenigsegg_PNG11.png"
+        }
+    ]
+}
