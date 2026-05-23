@@ -1,14 +1,11 @@
-import React from 'react'
-import Navigation from './components/Navigation'
-import HeroSection from './components/HeroSection'
-import BookingSection from './components/BookingSection'
+import MainComponent from "./components/Filtr/MainComponent"
+
 
 const App = () => {
   return (
     <>
-     <Navigation/>
-     <HeroSection/>
-     <BookingSection/>
+     
+     <MainComponent />
     </>
   )
 }
