@@ -6,9 +6,7 @@ import BookingSection from './components/BookingSection'
 const App = () => {
   return (
     <>
-     <Navigation/>
-     <HeroSection/>
-     <BookingSection/>
+ 
     </>
   )
 }
